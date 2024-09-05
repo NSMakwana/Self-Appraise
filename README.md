@@ -63,4 +63,3 @@ Here are some screenshots showcasing various aspects of the **Faculty Self-Appra
 ![Screenshot 7](/screen-shots/Screenshot%20(630).png)
 *Appraisal Report Download*
 
-
