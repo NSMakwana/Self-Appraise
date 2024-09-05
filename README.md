@@ -57,9 +57,6 @@ Here are some screenshots showcasing various aspects of the **Faculty Self-Appra
 ![Screenshot 4](/screen-shots/Screenshot%20(627).png)
 *Admin Panel*
 
-![Screenshot 5](/screen-shots/Screenshot%20(628).png)
-*Self-Appraisal Form*
-
 ![Screenshot 6](/screen-shots/Screenshot%20(629).png)
 *Appraisal Submission*
 
