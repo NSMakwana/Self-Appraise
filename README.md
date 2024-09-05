@@ -39,7 +39,7 @@ The **Faculty Self-Appraise System** is a modern, web-based platform designed to
 ## Screenshots
 
 #### Problem Statement
-![Screenshot 1](/screen-shots/Screenshot%20(631).png)
+![Screenshot Problem statement](/Screenshot%20(631).png)
 *Problem Statement*
 
 
