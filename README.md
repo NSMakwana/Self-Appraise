@@ -46,20 +46,20 @@ The **Faculty Self-Appraise System** is a modern, web-based platform designed to
 Here are some screenshots showcasing various aspects of the **Faculty Self-Appraise System**:
 
 ![Screenshot 1](/screen-shots/Screenshot%20(623).png)
-*Landing Page*
+*Dashboard Page*
 
 ![Screenshot 2](/screen-shots/Screenshot%20(624).png)
-*Login Page*
+*Profile Settings Page*
 
 ![Screenshot 3](/screen-shots/Screenshot%20(626).png)
-*Dashboard View*
+*Sign in Page*
 
 ![Screenshot 4](/screen-shots/Screenshot%20(627).png)
-*Admin Panel*
+*Registration Page*
 
 ![Screenshot 6](/screen-shots/Screenshot%20(629).png)
-*Appraisal Submission*
+*Dashboard View*
 
 ![Screenshot 7](/screen-shots/Screenshot%20(630).png)
-*Appraisal Report Download*
+*Database View*
 
